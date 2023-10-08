@@ -112,7 +112,7 @@ const Store = () => {
 
                 <div className="singleProdDetailsLast">
                   <p>Rs.2000/-</p>
-                  <p>* * * * * </p>
+                  {/*  {/* <p>* * * * * </p> */}
                 </div>
               </div>
             </div>
@@ -129,7 +129,7 @@ const Store = () => {
 
                 <div className="singleProdDetailsLast">
                   <p>Rs.2500/-</p>
-                  <p>* * * * * </p>
+                  {/* <p>* * * * * </p> */}
                 </div>
               </div>
             </div>
@@ -146,7 +146,7 @@ const Store = () => {
 
                 <div className="singleProdDetailsLast">
                   <p>Rs.6000/-</p>
-                  <p>* * * * * </p>
+                  {/* <p>* * * * * </p> */}
                 </div>
               </div>
             </div>
@@ -163,7 +163,7 @@ const Store = () => {
 
                 <div className="singleProdDetailsLast">
                   <p>Rs.2000/-</p>
-                  <p>* * * * * </p>
+                  {/* <p>* * * * * </p> */}
                 </div>
               </div>
             </div>
@@ -180,7 +180,7 @@ const Store = () => {
 
                 <div className="singleProdDetailsLast">
                   <p>Rs.2500/-</p>
-                  <p>* * * * * </p>
+                  {/* <p>* * * * * </p> */}
                 </div>
               </div>
             </div>
@@ -197,7 +197,7 @@ const Store = () => {
 
                 <div className="singleProdDetailsLast">
                   <p>Rs.6000/-</p>
-                  <p>* * * * * </p>
+                  {/* <p>* * * * * </p> */}
                 </div>
               </div>
             </div>
